@@ -1,6 +1,4 @@
-Here’s a polished, **GitHub-ready README** version of your thesis project that feels attractive, professional, and research-driven while still being practical for open-source users:
 
----
 
 # 🚀 Multi-Domain Resource Allocation using GNN + RL
 

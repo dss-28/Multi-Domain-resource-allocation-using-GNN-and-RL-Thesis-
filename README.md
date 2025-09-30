@@ -112,6 +112,3 @@ If you have domain-specific datasets (traffic, supply chain, energy grids), feel
 
 ✨ *This project demonstrates how hybrid AI systems can transform real-world resource allocation across industries, cities, and logistics networks.*
 
----
-
-Would you like me to also **add some visuals (architecture diagram + application icons + sample graph flow)** in the README so it looks more engaging for GitHub visitors?
